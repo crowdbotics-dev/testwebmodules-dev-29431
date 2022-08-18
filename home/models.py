@@ -9,3 +9,7 @@ class Test123m(models.Model):
         null=True,
         blank=True,
     )
+    wqswqs = models.BigIntegerField(
+        null=True,
+        blank=True,
+    )
